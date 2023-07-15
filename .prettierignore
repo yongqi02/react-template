@@ -1,6 +1,4 @@
 .gitignore
-.prettierignore
-.prettierrc.js
 index.html
 package.json
 package-lock.json
